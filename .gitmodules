@@ -1,0 +1,6 @@
+[submodule "StereoSimulator"]
+	path = StereoSimulator
+	url = git@github.com:YaoChengTang/StereoSimulator.git
+[submodule "VLN-driven Mon-Stereo Fusion"]
+	path = VLN-driven Mon-Stereo Fusion
+	url = git@github.com:YaoChengTang/VLM-Driven-Monocular-Stereo-Fusion-Model.git
