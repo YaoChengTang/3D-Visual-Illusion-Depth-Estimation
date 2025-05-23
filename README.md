@@ -29,11 +29,23 @@
     Results on a part of different illusions
 
     <figure style="text-align: center;">
+    <img src="./Fig/3d-vis-illusion.jpg" alt="model" style="width: 100%;">
+    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions on Generated Data</figcaption>
+    </figure>
+
+    <figure style="text-align: center;">
+    <img src="./Fig/3d-Illusion-vis2.jpg" alt="model" style="width: 100%;">
+    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions on Real-world Data</figcaption>
+    </figure>
+
+    <figure style="text-align: center;">
     <img src="./Fig/3d-Illusion-vis1.jpg" alt="model" style="width: 100%;">
     <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Mirror Illusions</figcaption>
     </figure>
 
     <figure style="text-align: center;">
-    <img src="./Fig/3d-Illusion-vis2.jpg" alt="model" style="width: 100%;">
-    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Picture Illusions</figcaption>
+    <img src="./Fig/3DDet.jpg" alt="model" style="width: 100%;">
+    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions in 3D Detection</figcaption>
     </figure>
+
+    More visualizations in 3D lane detection, occupancy prediction, and planning are coming soon.
