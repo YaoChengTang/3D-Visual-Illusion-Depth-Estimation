@@ -17,8 +17,8 @@
     <figcaption style="text-align: center; font-style: italic; text-align: center;">Data generation pipeline for videos from generative models</figcaption>
     </figure>
 
-- ## VLN-driven Mon-Stereo Fusion
-    The VLN-driven monocular-stereo fusion model
+- ## VLM-driven Mon-Stereo Fusion
+    The VLM-driven monocular-stereo fusion model
 
     <figure style="text-align: center;">
     <img src="./Fig/Model.jpg" alt="model" style="width: 100%;">
