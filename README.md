@@ -1,13 +1,14 @@
 <h1 align="center"> 3D Visual Illusion Depth Estimation </h1> 
 
+<p align="center">
+  <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Data-blue?logo=huggingface" alt="Hugging Face Data"></a>
+  &nbsp;
+  <a href="https://arxiv.org/abs/2505.13061"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="ArXiv Paper"></a>
+  &nbsp;
+  <a href="https://huggingface.co/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Model-blue?logo=huggingface" alt="Model Weights"></a>
+</p>
+
 ![Video Data](./Fig/illusion_data.jpg)
-
-Preview Dataset:
-- **Baidu Drive**: [Download Link](https://pan.baidu.com/s/1pe9G7thzjBII5_d9EtVUpQ?pwd=4sch)
-- **Google Drive**: Uploading (link will be added soon)
-
-Full Dataset:
-The full dataset will be released in one month.
 
 
 
