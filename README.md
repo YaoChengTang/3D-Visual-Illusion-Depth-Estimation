@@ -42,12 +42,12 @@
     </figure>
 
     <figure style="text-align: center;">
-    <img src="./Fig/3d-Illusion-vis2.jpg" alt="model" style="width: 100%;">
+    <img src="./Fig/3d-Illusion-picture.jpg" alt="model" style="width: 100%;">
     <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions on Real-world Data</figcaption>
     </figure>
 
     <figure style="text-align: center;">
-    <img src="./Fig/3d-Illusion-vis1.jpg" alt="model" style="width: 100%;">
+    <img src="./Fig/3d-Illusion-mirror.jpg" alt="model" style="width: 100%;">
     <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Mirror Illusions</figcaption>
     </figure>
 
