@@ -1,4 +1,4 @@
-<h1 align="center"> 3D Visual Illusion Depth Estimation </h1> 
+<h1 align="center">3D Visual Illusion Depth Estimation</h1>
 
 <p align="center">
   <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Data-blue?logo=huggingface" alt="Hugging Face Data"></a>
@@ -8,52 +8,68 @@
   <a href="https://huggingface.co/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Model-blue?logo=huggingface" alt="Model Weights"></a>
 </p>
 
-![Video Data](./Fig/illusion_data.jpg)
+<p align="center">
+  <img src="./Fig/illusion_data.jpg" alt="Video Data" style="width: 100%;">
+</p>
 
+<h2 align="center">StereoSimulator</h2>
 
+<p>Pipeline used to generate stereo data with videos from the web or the generative models.</p>
 
-- ## StereoSimulator
-    Pipeline used to generate stereo data with videos from web or generative model
+<p align="center">
+  <img src="./Fig/mono_pipeline.jpg" alt="mono_pipeline" style="width: 100%;">
+  <br>
+  <em>Data generation pipeline for web-source data</em>
+</p>
 
-    <figure style="text-align: center;">
-    <img src="./Fig/mono_pipeline.jpg" alt="mono_pipeline" style="width: 100%;">
-    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Data generation pipeline for web-source data</figcaption>
-    </figure>
+<p align="center">
+  <img src="./Fig/stereo_pipeline.jpg" alt="stereo_pipeline" style="width: 100%;">
+  <br>
+  <em>Data generation pipeline for videos from generative models</em>
+</p>
 
-    <figure>
-    <img src="./Fig/stereo_pipeline.jpg" alt="stereo_pipeline" style="width:100%;">
-    <figcaption style="text-align: center; font-style: italic; text-align: center;">Data generation pipeline for videos from generative models</figcaption>
-    </figure>
+<h2 align="center">VLM-driven Mon-Stereo Fusion</h2>
 
-- ## VLM-driven Mon-Stereo Fusion
-    The VLM-driven monocular-stereo fusion model
+<p>The VLM-driven monocular-stereo fusion model.</p>
 
-    <figure style="text-align: center;">
-    <img src="./Fig/Model.jpg" alt="model" style="width: 100%;">
-    <!-- <figcaption style="font-style: italic; margin-top: 8px;">Data generation pipeline for web-source data</figcaption> -->
-    </figure>
+<p align="center">
+  <img src="./Fig/Model.jpg" alt="model" style="width: 100%;">
+</p>
 
-- ## Results
-    Results on a part of different illusions
+<h2 align="center">Results</h2>
 
-    <figure style="text-align: center;">
-    <img src="./Fig/3d-vis-illusion.jpg" alt="model" style="width: 100%;">
-    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions on Generated Data</figcaption>
-    </figure>
+<p>
+  Results on different illusions.  
+  A part of the demo images can be downloaded from 
+  <a href="https://drive.google.com/file/d/163pjMDnZnO2V4DeiKOpQD4KYP7_Us4j0/view?usp=sharing">Google Drive</a>.
+</p>
 
-    <figure style="text-align: center;">
-    <img src="./Fig/3d-Illusion-picture.jpg" alt="model" style="width: 100%;">
-    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions on Real-world Data</figcaption>
-    </figure>
+<p align="center">
+  <img src="./Fig/3d-vis-illusion.jpg" alt="Illusions on Generated Data" style="width: 100%;">
+  <br>
+  <em>Illusions on Generated Data</em>
+</p>
 
-    <figure style="text-align: center;">
-    <img src="./Fig/3d-Illusion-mirror.jpg" alt="model" style="width: 100%;">
-    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Mirror Illusions</figcaption>
-    </figure>
+<p align="center">
+  <img src="./Fig/3d-Illusion-picture.jpg" alt="Illusions on Real-world Data" style="width: 100%;">
+  <br>
+  <em>Illusions on Real-world Data</em>
+</p>
 
-    <figure style="text-align: center;">
-    <img src="./Fig/3DDet.jpg" alt="model" style="width: 100%;">
-    <figcaption style="font-style: italic; margin-top: 8px; text-align: center;">Illusions in 3D Detection</figcaption>
-    </figure>
+<p align="center">
+  <img src="./Fig/3d-Illusion-mirror.jpg" alt="Mirror Illusions" style="width: 100%;">
+  <br>
+  <em>Mirror Illusions</em>
+</p>
 
-    More visualizations in 3D lane detection, occupancy prediction, and planning are coming soon.
+<p>We provide illusion masks in our dataset and encourage their use and extension to other 3D tasks, such as 3D detection.</p>
+
+<p align="center">
+  <img src="./Fig/3DDet.jpg" alt="Illusions in 3D Detection" style="width: 100%;">
+  <br>
+  <em>Illusions in 3D Detection</em>
+</p>
+
+<p align="center">
+  More visualizations in 3D lane detection, occupancy prediction, and planning are coming soon.
+</p>
