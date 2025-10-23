@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Data-blue?logo=huggingface" alt="Hugging Face Data"></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/16H9sXKPskXSpOSwryxA4cRPj5jUCQzv_/view?usp=drive_link"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="ArXiv Paper"></a>
+  <a href="https://arxiv.org/abs/2505.13061"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="ArXiv Paper"></a>
   &nbsp;
   <a href="https://huggingface.co/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Model-blue?logo=huggingface" alt="Model Weights"></a>
 </p>
