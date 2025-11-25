@@ -1,6 +1,8 @@
 [submodule "StereoSimulator"]
 	path = StereoSimulator
 	url = git@github.com:YaoChengTang/StereoSimulator.git
+	branch = main
 [submodule "VLM-driven Mon-Stereo Fusion"]
 	path = VLM-driven Mon-Stereo Fusion
 	url = git@github.com:YaoChengTang/VLM-Driven-Monocular-Stereo-Fusion-Model.git
+	branch = 3DIllusion
