@@ -1,9 +1,9 @@
 <h1 align="center">3D Visual Illusion Depth Estimation</h1>
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Data-blue?logo=huggingface" alt="Hugging Face Train Data"></a>
+  <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation"><img src="https://img.shields.io/badge/HuggingFace-Train_Data-blue?logo=huggingface" alt="Hugging Face Train Data"></a>
   &nbsp;
-  <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation_Real"><img src="https://img.shields.io/badge/HuggingFace-Data-blue?logo=huggingface" alt="Hugging Face Eval Data"></a>
+  <a href="https://huggingface.co/datasets/AdamYao/3D_Visual_Illusion_Depth_Estimation_Real"><img src="https://img.shields.io/badge/HuggingFace-Test_Data-blue?logo=huggingface" alt="Hugging Face Test Data"></a>
   &nbsp;
   <a href="https://arxiv.org/abs/2505.13061"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="ArXiv Paper"></a>
   &nbsp;
